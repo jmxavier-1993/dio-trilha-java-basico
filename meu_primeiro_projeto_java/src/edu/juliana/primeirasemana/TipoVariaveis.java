@@ -1,0 +1,6 @@
+package edu.juliana.primeirasemana;
+public class TipoVariaveis {
+    public static void main(String[] args) throws Exception {
+        System.out.println("Hello, World!");
+    }
+}
